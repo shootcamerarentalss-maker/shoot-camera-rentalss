@@ -1,0 +1,1 @@
+console.log('SHOOT CAMERA RENTALSS');
